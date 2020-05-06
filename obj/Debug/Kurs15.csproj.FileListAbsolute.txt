@@ -1,0 +1,44 @@
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.Properties.Resources.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.csproj.GenerateResource.cache
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.csproj.CoreCompileInputs.cache
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\bin\Debug\Kurs15.exe.config
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\bin\Debug\Kurs15.exe
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\bin\Debug\Kurs15.pdb
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.exe
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.pdb
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.CardsList.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.MainForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.ChamberForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.ChamberListControl.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.RegisterChamberForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.RegisterCardForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.CardSearchingControl.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.CardForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\bin\Debug\Newtonsoft.Json.dll
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\bin\Debug\Newtonsoft.Json.xml
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.csproj.CopyComplete
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.csprojAssemblyReference.cache
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.ExtractForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсові\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.RegisterExtractForm.resources
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\bin\Debug\Kurs15.exe.config
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\bin\Debug\Kurs15.exe
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\bin\Debug\Kurs15.pdb
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.csprojAssemblyReference.cache
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.CardForm.resources
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.CardSearchingControl.resources
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.CardsList.resources
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.ChamberForm.resources
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.ChamberListControl.resources
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.ExtractForm.resources
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.MainForm.resources
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.Properties.Resources.resources
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.RegisterCardForm.resources
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.RegisterChamberForm.resources
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.RegisterExtractForm.resources
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.csproj.GenerateResource.cache
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.csproj.CoreCompileInputs.cache
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.csproj.CopyComplete
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.exe
+C:\Users\gold\Desktop\курсач\Roman\Kurs15\Kurs15\obj\Debug\Kurs15.pdb

@@ -1,0 +1,126 @@
+{
+  "$id": "1",
+  "medicalCards": [
+    {
+      "$id": "2",
+      "name": "Шахтай",
+      "surname": "Христина",
+      "patronymic": "Володимирівна",
+      "age": 37,
+      "direction": "Шизоїдна поведінка",
+      "dateEntry": "2020-05-05T12:45:44.5007695+03:00",
+      "additionalDescription": "хаотично рветься знімати форпости",
+      "chambers": [
+        {
+          "$id": "3",
+          "number": 6,
+          "numberTel": "0956667558",
+          "dateEntry": "2020-05-05T12:45:44.5007695+03:00"
+        }
+      ],
+      "extract": null
+    },
+    {
+      "$id": "4",
+      "name": "Пацовта",
+      "surname": "Андрій",
+      "patronymic": "Васильович",
+      "age": 42,
+      "direction": "Хронічна клептоманія",
+      "dateEntry": "2020-05-05T12:52:49.0343548+03:00",
+      "additionalDescription": "носить пакет в якому безліч пакетів",
+      "chambers": [
+        {
+          "$id": "5",
+          "number": 6,
+          "numberTel": "0956667558",
+          "dateEntry": "2020-05-05T12:52:49.0343548+03:00"
+        }
+      ],
+      "extract": null
+    },
+    {
+      "$id": "6",
+      "name": "Верига",
+      "surname": "Калина",
+      "patronymic": "Ігорівна",
+      "age": 72,
+      "direction": "Апатія",
+      "dateEntry": "2020-05-05T12:54:52.6165849+03:00",
+      "additionalDescription": "",
+      "chambers": [
+        {
+          "$id": "7",
+          "number": 1,
+          "numberTel": "0966111222",
+          "dateEntry": "2020-05-05T12:54:52.6165849+03:00"
+        }
+      ],
+      "extract": null
+    },
+    {
+      "$id": "8",
+      "name": "Болдиш",
+      "surname": "Степан",
+      "patronymic": "Орестович",
+      "age": 72,
+      "direction": "Безпричинна агресія",
+      "dateEntry": "2020-05-05T12:58:12.8104284+03:00",
+      "additionalDescription": "одиночна палата",
+      "chambers": [
+        {
+          "$id": "9",
+          "number": 1,
+          "numberTel": "0966111222",
+          "dateEntry": "2020-05-05T12:58:12.8104284+03:00"
+        }
+      ],
+      "extract": null
+    },
+    {
+      "$id": "10",
+      "name": "Терлюжак",
+      "surname": "Тарас",
+      "patronymic": "Вадимович",
+      "age": 25,
+      "direction": "Параноя",
+      "dateEntry": "2020-05-05T12:59:49.8746362+03:00",
+      "additionalDescription": "тримає під подушкою та ліжком коробки від взуття",
+      "chambers": [
+        {
+          "$id": "11",
+          "number": 86,
+          "numberTel": "0966111222",
+          "dateEntry": "2020-05-05T12:59:49.8746362+03:00"
+        }
+      ],
+      "extract": null
+    }
+  ],
+  "chambers": [
+    {
+      "$id": "12",
+      "number": 6,
+      "numberTel": "0956667558",
+      "dateEntry": "2020-05-05T12:45:39.3765467+03:00"
+    },
+    {
+      "$id": "13",
+      "number": 1,
+      "numberTel": "0966111222",
+      "dateEntry": "2020-05-05T12:54:48.3620708+03:00"
+    },
+    {
+      "$id": "14",
+      "number": 100,
+      "numberTel": "0966111222",
+      "dateEntry": "2020-05-05T12:57:36.5990993+03:00"
+    },
+    {
+      "$id": "15",
+      "number": 86,
+      "numberTel": "0966111222",
+      "dateEntry": "2020-05-05T12:59:42.6538831+03:00"
+    }
+  ]
+}
